@@ -1,0 +1,8 @@
+cache-dir: ~/.cache
+registry: default
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
